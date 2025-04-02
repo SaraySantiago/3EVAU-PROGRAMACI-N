@@ -1,7 +1,7 @@
 
 # COMENTARIOS DE LA LECTURA
 
-# respuestas en md para coger el texto y codigos y poder procesarlos.
+
 
 # Sinergias elegidas para dar soporte con sistemas:
 
